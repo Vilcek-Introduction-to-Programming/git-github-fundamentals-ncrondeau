@@ -90,6 +90,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 HOMEWORK
 
+# NICOLE WAS HERE!
+
 * Open a pull request to let me know that you’ve finished this course (You can just edit this page and commit to a pull request).
 * Create a new markdown or text file in this repository. Let me know what you learned and what you are still confused about.
 * Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
